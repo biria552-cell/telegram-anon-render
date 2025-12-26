@@ -1,1 +1,1 @@
-web: python bot_render.py
+worker: python bot_render.py
